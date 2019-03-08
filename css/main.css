@@ -1,7 +1,13 @@
+html {
+  background-color: #f0f0f0;
+}
+
 .small-bodycopy {
   font-family: 'Slabo 27px', serif;
+  color: #005707
 }
 
 .big-bodycopy {
   font-family: 'Vampiro One', cursive;
+  color: #80de00;
 }
