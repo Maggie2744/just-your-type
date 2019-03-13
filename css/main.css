@@ -1,31 +1,31 @@
 html {
-  color: #ffffff;
-  background-color: #000000;
+  color: #fff;
+  background-color: #000;
 }
 
 h1 {
-  color: #000000;
+  color: #000;
 }
 
 .section-1 {
-  font-family: 'Kalam', cursive;
+  font-family: "Kalam", cursive;
   color: #ff9d00;
 }
 
 .section-2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #f1bc67;
 }
 
 .section-3 {
-  font-family: 'Kalam', cursive;
+  font-family: "Kalam", cursive;
   color: #ff9d00;
 }
 
 @media only screen and (min-width: 25em) {
 
   .section-1 {
-    color: #ff3300;
+    color: #f30;
   }
 
   .section-2 {
@@ -33,7 +33,7 @@ h1 {
   }
 
   .section-3 {
-    color: #ff3300;
+    color: #f30;
   }
 
 }
@@ -73,7 +73,7 @@ h1 {
 @media only screen and (min-width: 90em) {
 
   .section-1 {
-    color: #ff3300;
+    color: #f30;
   }
 
   .section-2 {
@@ -81,7 +81,7 @@ h1 {
   }
 
   .section-3 {
-    color: #ff3300;
+    color: #f30;
   }
 
 }
