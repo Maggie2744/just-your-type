@@ -1,13 +1,84 @@
 html {
-  background-color: #f0f0f0;
+  color: #ffffff;
+  background-color: #000000;
 }
 
-.small-bodycopy {
-  font-family: 'Slabo 27px', serif;
-  color: #005707
+h1 {
+  color: #000000;
 }
 
-.big-bodycopy {
-  font-family: 'Vampiro One', cursive;
-  color: #80de00;
+.section-1 {
+  color: #ff9d00;
+}
+
+.section-2 {
+  color: #f1bc67;
+}
+
+.section-3 {
+  color: #ff9d00;
+}
+
+@media only screen and (min-width: 25em) {
+
+  .section-1 {
+    color: #ff3300;
+  }
+
+  .section-2 {
+    color: #f9b5a4;
+  }
+
+  .section-3 {
+    color: #ff3300;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .section-1 {
+    color: #00bab7;
+  }
+
+  .section-2 {
+    color: #609695;
+  }
+
+  .section-3 {
+    color: #00bab7;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .section-1 {
+    color: #ff9d00;
+  }
+
+  .section-2 {
+    color: #f1bc67;
+  }
+
+  .section-3 {
+    color: #ff9d00;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  .section-1 {
+    color: #ff3300;
+  }
+
+  .section-2 {
+    color: #f9b5a4;
+  }
+
+  .section-3 {
+    color: #ff3300;
+  }
+
 }
